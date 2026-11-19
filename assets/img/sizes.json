@@ -1,0 +1,90 @@
+{
+ "hero-wall": [
+  2000,
+  925
+ ],
+ "manual-full": [
+  1600,
+  2261
+ ],
+ "manual-materials": [
+  1068,
+  516
+ ],
+ "manual-frame": [
+  1200,
+  1698
+ ],
+ "manual-bracing": [
+  1200,
+  1643
+ ],
+ "manual-platform": [
+  1200,
+  1655
+ ],
+ "maze-movement": [
+  1050,
+  1125
+ ],
+ "maze-moodboards": [
+  1600,
+  798
+ ],
+ "maze-manual": [
+  1600,
+  2261
+ ],
+ "maze-glade": [
+  1500,
+  612
+ ],
+ "maze-map": [
+  1000,
+  936
+ ],
+ "maze-rules": [
+  1100,
+  1008
+ ],
+ "collage": [
+  1200,
+  1716
+ ],
+ "pringles": [
+  1200,
+  1492
+ ],
+ "animals": [
+  1600,
+  728
+ ],
+ "koala-school": [
+  1100,
+  955
+ ],
+ "koala-book": [
+  1100,
+  830
+ ],
+ "seat-collage": [
+  1400,
+  1230
+ ],
+ "seat-plan": [
+  900,
+  879
+ ],
+ "seat-concept": [
+  1300,
+  703
+ ],
+ "seat-sections": [
+  1600,
+  599
+ ],
+ "seat-render": [
+  1800,
+  635
+ ]
+}
